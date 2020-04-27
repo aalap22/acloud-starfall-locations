@@ -12,7 +12,7 @@ python3 ch-2-12-Snakes-Meteors.py
 
 Now I have created "pipenv" to run the code. So use it. 
 "pip3 install pipenv"
-"pipenv run python <#filename>"
+"pipenv run python codedir/<#filename>"
 
 Note:
 in both the codes, my location is set statically. You need to change the longitude and latitude under mylocation to be specific to where you are. 
